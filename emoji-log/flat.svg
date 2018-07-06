@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="82px" height="20px" viewBox="0 0 82 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="110px" height="20px" viewBox="0 0 110 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>badge copy</title>
+    <title>badge</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="badge-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="flat">
-            <rect id="Rectangle-Copy" fill="#8679A2" x="0" y="0" width="82" height="20"></rect>
-            <rect id="Rectangle-2-Copy" fill="#413855" x="0" y="0" width="21" height="20"></rect>
-            <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#EDE8F7">
-                <tspan x="25" y="13">emoji-log</tspan>
+            <rect id="Rectangle-Copy" fill="#8679A2" x="0" y="0" width="110" height="20"></rect>
+            <rect id="Rectangle-2-Copy" fill="#413855" x="0" y="0" width="33" height="20"></rect>
+            <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="45" y="13">emoji-log</tspan>
             </text>
             <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
-                <tspan x="4" y="14">🚀</tspan>
+                <tspan x="10" y="14">🚀</tspan>
             </text>
         </g>
     </g>

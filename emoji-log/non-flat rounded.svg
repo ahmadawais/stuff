@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="20px" viewBox="0 0 110 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>non-flat rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L33,0 L33,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-3"></path>
+        <text id="text-4" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="badge">
+            <g id="Rectangle-Copy-2">
+                <g fill-rule="evenodd">
+                    <use fill="#8679A2" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.25" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2" fill-rule="evenodd">
+                    <use fill="#413855" xlink:href="#path-3"></use>
+                    <use fill-opacity="0.25" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                    <use xlink:href="#text-4"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="10" y="14">🚀</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

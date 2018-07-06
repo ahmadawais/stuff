@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="82px" height="20px" viewBox="0 0 82 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="110px" height="20px" viewBox="0 0 110 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>badge copy</title>
+    <title>badge</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="badge-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <defs>
+        <text id="text-1" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="flat-rounded">
-            <rect id="Rectangle-Copy" fill="#8679A2" x="0" y="0" width="82" height="20"></rect>
-            <path d="M3,0 L21,0 L21,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy" fill="#413855"></path>
-            <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#EDE8F7">
-                <tspan x="25" y="13">emoji-log</tspan>
-            </text>
+            <rect id="Rectangle-Copy-2" fill="#8679A2" x="0" y="0" width="110" height="20" rx="3"></rect>
+            <path d="M3,0 L33,0 L33,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#413855"></path>
+            <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
             <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
-                <tspan x="4" y="14">🚀</tspan>
+                <tspan x="10" y="14">🚀</tspan>
             </text>
         </g>
     </g>
