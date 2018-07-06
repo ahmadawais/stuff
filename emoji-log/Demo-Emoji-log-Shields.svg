@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="728px" height="1000px" viewBox="0 0 728 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Emoji Shields</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="118" width="110" height="20"></rect>
+        <path d="M76,118 L107,118 C108.656854,118 110,119.343146 110,121 L110,135 C110,136.656854 108.656854,138 107,138 L76,138 L76,118 Z" id="path-3"></path>
+        <rect id="path-4" x="0" y="118" width="110" height="20"></rect>
+        <path d="M76,118 L107,118 C108.656854,118 110,119.343146 110,121 L110,135 C110,136.656854 108.656854,138 107,138 L76,138 L76,118 Z" id="path-5"></path>
+        <rect id="path-6" x="0" y="118" width="110" height="20"></rect>
+        <path d="M76,118 L107,118 C108.656854,118 110,119.343146 110,121 L110,135 C110,136.656854 108.656854,138 107,138 L76,138 L76,118 Z" id="path-7"></path>
+        <text id="text-8" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-11"></path>
+        <text id="text-12" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-14" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-17"></path>
+        <text id="text-18" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-20" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-22" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-23"></path>
+        <text id="text-24" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-26" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-28" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <text id="text-29" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-31" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L33,0 L33,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-34"></path>
+        <text id="text-35" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-37" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-40"></path>
+        <text id="text-41" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="45" y="13">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-43" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#3E475D">
+            <tspan x="46" y="14">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-46"></path>
+        <text id="text-47" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#3E475D">
+            <tspan x="46" y="14">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-49" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#D5DEF8">
+            <tspan x="46" y="14">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-51">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-52" x="0" y="0" width="110" height="20" rx="3"></rect>
+        <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-53"></path>
+        <text id="text-54" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#D5DEF8">
+            <tspan x="46" y="14">emoji-log</tspan>
+        </text>
+        <filter x="-13.2%" y="-31.2%" width="126.4%" height="187.5%" filterUnits="objectBoundingBox" id="filter-55">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Emoji-Shields" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(54.000000, 792.000000)">
+            <g id="Group-6">
+                <rect id="Rectangle" fill="#CAD9FF" x="0" y="16" width="110" height="20"></rect>
+                <rect id="Rectangle-2" fill="#E1EAFF" x="76" y="16" width="34" height="20"></rect>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="29">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="30">🚀</tspan>
+                </text>
+                <rect id="Rectangle" fill="#CAD9FF" x="0" y="67" width="110" height="20"></rect>
+                <path d="M76,67 L107,67 C108.656854,67 110,68.3431458 110,70 L110,84 C110,85.6568542 108.656854,87 107,87 L76,87 L76,67 Z" id="Rectangle-2" fill="#E1EAFF"></path>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="80">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="81">🚀</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#CAD9FF" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle-2">
+                    <use fill="#E1EAFF" xlink:href="#path-3"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="131">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="132">🚀</tspan>
+                </text>
+                <text id="Flat-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="10">Flat</tspan>
+                </text>
+                <text id="Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="61">Flat Rounded</tspan>
+                </text>
+                <text id="Not-Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="112">Not-Flat Rounded</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-4-Copy-5" transform="translate(224.000000, 792.000000)">
+            <g id="Group-6">
+                <rect id="Rectangle" fill="#E1EAFF" x="0" y="16" width="110" height="20"></rect>
+                <rect id="Rectangle-2" fill="#CAD9FF" x="76" y="16" width="34" height="20"></rect>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="29">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="30">🚀</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E1EAFF" x="0" y="67" width="110" height="20"></rect>
+                <path d="M76,67 L107,67 C108.656854,67 110,68.3431458 110,70 L110,84 C110,85.6568542 108.656854,87 107,87 L76,87 L76,67 Z" id="Rectangle-2" fill="#CAD9FF"></path>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="80">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="81">🚀</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#E1EAFF" xlink:href="#path-4"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Rectangle-2">
+                    <use fill="#CAD9FF" xlink:href="#path-5"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                </g>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="11" y="131">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="87" y="132">🚀</tspan>
+                </text>
+                <text id="Flat-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="10">Flat</tspan>
+                </text>
+                <text id="Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="61">Flat Rounded</tspan>
+                </text>
+                <text id="Not-Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="112">Not-Flat Rounded</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-4-Copy-6" transform="translate(395.000000, 792.000000)">
+            <g id="Group-6">
+                <rect id="Rectangle" fill="#E1EAFF" x="0" y="16" width="110" height="20"></rect>
+                <rect id="Rectangle-2" fill="#E1EAFF" x="76" y="16" width="34" height="20"></rect>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="29">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="90" y="30">🚀</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E1EAFF" x="0" y="67" width="110" height="20"></rect>
+                <path d="M76,67 L107,67 C108.656854,67 110,68.3431458 110,70 L110,84 C110,85.6568542 108.656854,87 107,87 L76,87 L76,67 Z" id="Rectangle-2" fill="#E1EAFF"></path>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="80">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="90" y="81">🚀</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#E1EAFF" xlink:href="#path-6"></use>
+                    <use fill-opacity="0.200000003" fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Rectangle-2">
+                    <use fill="#E1EAFF" xlink:href="#path-7"></use>
+                    <use fill-opacity="0.200000003" fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                </g>
+                <text id="emoji-log" font-family="Monaco" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="131">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="90" y="132">🚀</tspan>
+                </text>
+                <text id="Flat-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="10">Flat</tspan>
+                </text>
+                <text id="Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="61">Flat Rounded</tspan>
+                </text>
+                <text id="Not-Flat-Rounded-Copy" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                    <tspan x="0" y="112">Not-Flat Rounded</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-4-Copy-3" transform="translate(54.000000, 859.000000)"></g>
+        <g id="Group-4-Copy-4" transform="translate(54.000000, 910.000000)"></g>
+        <g id="Group-5" transform="translate(53.000000, 151.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#434F70" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#2D354B" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="13">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#434F70" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#2D354B"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-9)" xlink:href="#text-8"></use>
+                    <use xlink:href="#text-8"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#434F70" xlink:href="#path-10"></use>
+                    <use fill-opacity="0.300000012" fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#2D354B" xlink:href="#path-11"></use>
+                    <use fill-opacity="0.300000012" fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-13)" xlink:href="#text-12"></use>
+                    <use xlink:href="#text-12"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy-2" transform="translate(224.000000, 151.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#2D354B" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#434F70" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="13">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#2D354B" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#434F70"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-15)" xlink:href="#text-14"></use>
+                    <use xlink:href="#text-14"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#2D354B" xlink:href="#path-16"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-16"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#434F70" xlink:href="#path-17"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-17"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-19)" xlink:href="#text-18"></use>
+                    <use xlink:href="#text-18"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy" transform="translate(395.000000, 151.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#C26E00" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#522F00" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="13">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#C26E00" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#522F00"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-21)" xlink:href="#text-20"></use>
+                    <use xlink:href="#text-20"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#C26E00" xlink:href="#path-22"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-22"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#522F00" xlink:href="#path-23"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-23"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-25)" xlink:href="#text-24"></use>
+                    <use xlink:href="#text-24"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy-3" transform="translate(566.000000, 151.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#522F00" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#BA7316" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="13">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#522F00" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#BA7316"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-27)" xlink:href="#text-26"></use>
+                    <use xlink:href="#text-26"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#522F00" xlink:href="#path-28"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-28"></use>
+                </g>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#BA7316"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-30)" xlink:href="#text-29"></use>
+                    <use xlink:href="#text-29"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(53.000000, 484.000000)">
+            <rect id="Rectangle-Copy" fill="#8679A2" x="0" y="0" width="110" height="20"></rect>
+            <rect id="Rectangle-2-Copy" fill="#413855" x="0" y="0" width="33" height="20"></rect>
+            <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="45" y="13">emoji-log</tspan>
+            </text>
+            <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                <tspan x="10" y="14">🚀</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(53.000000, 535.000000)">
+            <rect id="Rectangle-Copy-2" fill="#8679A2" x="0" y="0" width="110" height="20" rx="3"></rect>
+            <path d="M3,0 L33,0 L33,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#413855"></path>
+            <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-32)" xlink:href="#text-31"></use>
+                <use xlink:href="#text-31"></use>
+            </g>
+            <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                <tspan x="10" y="14">🚀</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-Copy-2" transform="translate(52.000000, 587.000000)">
+            <g fill-rule="evenodd">
+                <use fill="#8679A2" xlink:href="#path-33"></use>
+                <use fill-opacity="0.25" fill="url(#linearGradient-1)" xlink:href="#path-33"></use>
+            </g>
+            <g id="Rectangle-2-Copy-2" fill-rule="evenodd">
+                <use fill="#413855" xlink:href="#path-34"></use>
+                <use fill-opacity="0.25" fill="url(#linearGradient-1)" xlink:href="#path-34"></use>
+            </g>
+            <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-36)" xlink:href="#text-35"></use>
+                <use xlink:href="#text-35"></use>
+            </g>
+            <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                <tspan x="10" y="14">🚀</tspan>
+            </text>
+        </g>
+        <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+            <tspan x="53" y="479">Flat</tspan>
+        </text>
+        <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+            <tspan x="53" y="529">Flat Rounded</tspan>
+        </text>
+        <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+            <tspan x="52" y="581">Not-Flat Rounded</tspan>
+        </text>
+        <g id="Group-5-Copy-5" transform="translate(224.000000, 469.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#413855" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#8679A2" x="0" y="0" width="33" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="13">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="10" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#413855" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#8679A2"></path>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-38)" xlink:href="#text-37"></use>
+                    <use xlink:href="#text-37"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#413855" xlink:href="#path-39"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-39"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#8679A2" xlink:href="#path-40"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" xlink:href="#path-40"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-42)" xlink:href="#text-41"></use>
+                    <use xlink:href="#text-41"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy-6" transform="translate(395.000000, 469.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#E1EAFF" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#697491" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#3E475D">
+                    <tspan x="46" y="14">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#E1EAFF" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#697491"></path>
+                <g id="emoji-log-copy-2" fill="#3E475D" fill-opacity="1">
+                    <use filter="url(#filter-44)" xlink:href="#text-43"></use>
+                    <use xlink:href="#text-43"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#E1EAFF" xlink:href="#path-45"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-45"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#697491" xlink:href="#path-46"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-46"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#3E475D" fill-opacity="1">
+                    <use filter="url(#filter-48)" xlink:href="#text-47"></use>
+                    <use xlink:href="#text-47"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy-7" transform="translate(566.000000, 469.000000)">
+            <g id="Group-3" transform="translate(1.000000, 15.000000)">
+                <rect id="Rectangle-Copy" fill="#697491" x="0" y="0" width="110" height="20"></rect>
+                <rect id="Rectangle-2-Copy" fill="#E1EAFF" x="0" y="0" width="34" height="20"></rect>
+                <text id="emoji-log-copy" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" fill="#D5DEF8">
+                    <tspan x="46" y="14">emoji-log</tspan>
+                </text>
+                <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 66.000000)">
+                <rect id="Rectangle-Copy-2" fill="#697491" x="0" y="0" width="110" height="20" rx="3"></rect>
+                <path d="M3,0 L34,0 L34,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-2-Copy-2" fill="#E1EAFF"></path>
+                <g id="emoji-log-copy-2" fill="#D5DEF8" fill-opacity="1">
+                    <use filter="url(#filter-50)" xlink:href="#text-49"></use>
+                    <use xlink:href="#text-49"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy" transform="translate(0.000000, 118.000000)">
+                <g id="Rectangle-Copy-2">
+                    <use fill="#697491" xlink:href="#path-52"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-51)" xlink:href="#path-52"></use>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#E1EAFF" xlink:href="#path-53"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-53"></use>
+                </g>
+                <g id="emoji-log-copy-2" fill="#D5DEF8" fill-opacity="1">
+                    <use filter="url(#filter-55)" xlink:href="#text-54"></use>
+                    <use xlink:href="#text-54"></use>
+                </g>
+                <text id="🚀-copy" font-family="AppleColorEmoji, Apple Color Emoji" font-size="10" font-weight="normal" fill="#707070">
+                    <tspan x="11" y="14">🚀</tspan>
+                </text>
+            </g>
+            <text id="Flat" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="10">Flat</tspan>
+            </text>
+            <text id="Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="1" y="60">Flat Rounded</tspan>
+            </text>
+            <text id="Not-Flat-Rounded" font-family="Renner-it-Book, Renner*" font-size="10" font-weight="300" fill="#4A4A4A">
+                <tspan x="0" y="112">Not-Flat Rounded</tspan>
+            </text>
+        </g>
+        <text id="01" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="53" y="108">01</tspan>
+        </text>
+        <text id="05" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="52" y="426">05</tspan>
+        </text>
+        <text id="06" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="224" y="426">06</tspan>
+        </text>
+        <text id="07" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="395" y="426">07</tspan>
+        </text>
+        <text id="08" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="566" y="426">08</tspan>
+        </text>
+        <text id="09" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="54" y="749">09</tspan>
+        </text>
+        <text id="10" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="224" y="749">10</tspan>
+        </text>
+        <text id="11" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="395" y="749">11</tspan>
+        </text>
+        <text id="02" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="224" y="108">02</tspan>
+        </text>
+        <text id="03" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="395" y="108">03</tspan>
+        </text>
+        <text id="04" opacity="0.300000012" font-family="Renner-it-Book, Renner*" font-size="36" font-weight="300" fill="#4A4A4A">
+            <tspan x="566" y="108">04</tspan>
+        </text>
+    </g>
+</svg>
