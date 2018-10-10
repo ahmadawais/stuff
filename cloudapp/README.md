@@ -1,0 +1,1 @@
+CloudApp seems to have been banned by Google, and many of my images have been affected. So, this is where I collect them.
